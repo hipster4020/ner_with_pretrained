@@ -19,10 +19,7 @@ PS : PERSON 인물명<br>
 ## tree
 * [src]
   * [config.yml]
-  * [data.py]
   * [dataloader.py]
-  * [generic.py]
-  * [ner_pipeline.py]
   * [train.py]
 * [.gitignore]
 * [README.md]
