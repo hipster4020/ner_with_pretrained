@@ -1,5 +1,5 @@
-# 📰 News Company NER
-기업명을 추출하는 NER Model train<br>
+# 📰 NER
+NER Model train<br>
 <blockquote></blockquote><br><br>
 
 
@@ -7,7 +7,6 @@
 ## 🤖 Model
 KLUE bert<br><br>
 ## 📰 Klue NER Dataset
-기업명만 ORG tagging, 나머지 O tagging<br>
 <blockquote>'LC', 'DT', 'OG', 'TI', 'QT', 'O', 'PS'<br>
 </blockquote>LC : location 지역 명칭과 행정구역 명칭 등<br>
 DT : DATE 날짜<br>
